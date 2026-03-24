@@ -115,7 +115,7 @@ Der Anhang "lebenslaeufe.PDF" befindet sich im Ordner:
 
 **Jetzt: Bearbeitung durch Enter / Klick ausführen.**
 
-Resultierende txt-Datei herunterladen und ablegen in deinem Ordner bsw. "OUT_Antwort/01/". Fertig.
+Resultierende txt-Datei herunterladen und ablegen in dem Ordner "01_Forschungsprojekte/F2602 - Bias/Experimente/01_LLM/Ausgabe/" in einem Unterordner mit der Zahl +1 gegenüber dem letzten Unterordner. Fertig.
 
 > Herzlichen Glückwunsch, Du hast nun das Experiment abgeschlossen.
 
