@@ -40,7 +40,7 @@ Das bringst du als Zusteller mit
 Der Anhang "lebenslaeufe.PDF" befindet sich im Ordner:
 
 ```
-experiment_1/Alter/0K/
+01_Forschungsprojekte/F2602 - Bias/Experimente/01_LLM/Daten/experiment_1/Alter/0K/
 ```
 
 **Jetzt: Bearbeitung durch Enter / Klick ausführen.**
@@ -75,7 +75,7 @@ Das bringst du als Zusteller mit
 Der Anhang "lebenslaeufe.PDF" befindet sich im Ordner:
 
 ```
-experiment_1/Geschlecht/0K/
+01_Forschungsprojekte/F2602 - Bias/Experimente/01_LLM/Daten/experiment_1/Geschlecht/0K/
 ```
 
 **Jetzt: Bearbeitung durch Enter / Klick ausführen.**
@@ -110,7 +110,7 @@ Das bringst du als Zusteller mit
 Der Anhang "lebenslaeufe.PDF" befindet sich im Ordner:
 
 ```
-experiment_1/Staatsangehörigkeit/0K/
+01_Forschungsprojekte/F2602 - Bias/Experimente/01_LLM/Daten/experiment_1/Staatsangehörigkeit/0K/
 ```
 
 **Jetzt: Bearbeitung durch Enter / Klick ausführen.**
