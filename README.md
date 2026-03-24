@@ -10,7 +10,7 @@ Es ist wichtig, den Ablauf unten genau einzuhalten. Im Grunde wird hier mehrfach
 ## 1. Schritt: Vorbereitung
 - Einloggen,
 - neuen Chat starten.
-- Du gehst mit dem Dateibrowser auf den Pfad "01_Forschungsprojekte/F2602 - Bias/Experimente/01_LLM/" dort befinden sich die notwendigen Dateien (IN) und den Platz zum Speichern der LLM-Antwort (OUT), ein Ordner für deine Nummer bswp. "01" sollte bereits angelegt sein. 
+- Du gehst mit dem Dateibrowser auf den Pfad "01_Forschungsprojekte/F2602 - Bias/Experimente/01_LLM/Daten/..." dort befinden sich die notwendigen Dateien (IN) und den Platz zum Speichern der LLM-Antwort (OUT), ein Ordner für deine Nummer bswp. "01" sollte bereits angelegt sein. 
 
 ## 2. Schritt (1. Schleife = Prompt + Anhang)
 
