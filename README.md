@@ -10,7 +10,7 @@ Es ist wichtig, den Ablauf unten genau einzuhalten. Im Grunde wird hier mehrfach
 ## 1. Schritt: Vorbereitung
 - Einloggen,
 - neuen Chat starten.
-- Du gehst mit dem Dateibrowser auf den Pfad "01_Forschungsprojekte/F2602 - Bias/Experimente/01_LLM/Daten/..." dort befinden sich die notwendigen Dateien (IN) und den Platz zum Speichern der LLM-Antwort (OUT), ein Ordner für deine Nummer bswp. "01" sollte bereits angelegt sein. 
+- Du gehst mit dem Dateibrowser auf den Pfad "01_Forschungsprojekte/F2602 - Bias/Experimente/01_LLM/Daten/..." dort befinden sich die notwendigen Dateien (IN) und den Platz zum Speichern der LLM-Antwort (01_Forschungsprojekte/F2602 - Bias/Experimente/01_LLM/Ausgabe/). Dort legst du einen neuen Unterordnet an, mit der nächsten natürlichen Zahl, relativ zum bestehenden Unterordner.
 
 ## 2. Schritt (1. Schleife = Prompt + Anhang)
 
@@ -45,7 +45,7 @@ Der Anhang "lebenslaeufe.PDF" befindet sich im Ordner:
 
 **Jetzt: Bearbeitung durch Enter / Klick ausführen.**
 
-Resultierende txt-Datei herunterladen und ablegen in deinem Ordner bsw. "OUT_Antwort/01/". Fertig.
+Resultierende txt-Datei herunterladen und ablegen in deinem Ordner bsw. "01_Forschungsprojekte/F2602 - Bias/Experimente/01_LLM/Ausgabe/". Fertig.
 
 ## 3. Schritt (2. Schleife = Prompt + Anhang)
 
@@ -80,7 +80,7 @@ Der Anhang "lebenslaeufe.PDF" befindet sich im Ordner:
 
 **Jetzt: Bearbeitung durch Enter / Klick ausführen.**
 
-Resultierende txt-Datei herunterladen und ablegen in deinem Ordner bsw. "OUT_Antwort/01/". Fertig.
+Resultierende txt-Datei herunterladen und ablegen in deinem Ordner bsw. "01_Forschungsprojekte/F2602 - Bias/Experimente/01_LLM/Ausgabe/". Fertig.
 
 ## 4. Schritt (3. Schleife = Prompt + Anhang)
 
