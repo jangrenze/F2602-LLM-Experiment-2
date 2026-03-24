@@ -40,7 +40,7 @@ Das bringst du als Zusteller mit
 Der Anhang "lebenslaeufe.PDF" befindet sich im Ordner:
 
 ```
-IN_Anhang/Alter/0K/
+experiment_1/Alter/0K/
 ```
 
 **Jetzt: Bearbeitung durch Enter / Klick ausführen.**
@@ -75,7 +75,7 @@ Das bringst du als Zusteller mit
 Der Anhang "lebenslaeufe.PDF" befindet sich im Ordner:
 
 ```
-IN_Anhang/Geschlecht/0K/
+experiment_1/Geschlecht/0K/
 ```
 
 **Jetzt: Bearbeitung durch Enter / Klick ausführen.**
@@ -110,7 +110,7 @@ Das bringst du als Zusteller mit
 Der Anhang "lebenslaeufe.PDF" befindet sich im Ordner:
 
 ```
-IN_Anhang/Staatsangehörigkeit/0K/
+experiment_1/Staatsangehörigkeit/0K/
 ```
 
 **Jetzt: Bearbeitung durch Enter / Klick ausführen.**
